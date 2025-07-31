@@ -436,7 +436,11 @@ body {
     text-align: center;
     transform: translateX(-35px);  /* décalage léger vers la gauche uniquement en mobile */
   }
-  
+
+#accueil {
+  scroll-margin-top: 100px;
+}
+
 #prestations {
   scroll-margin-top: 100px;
 }
